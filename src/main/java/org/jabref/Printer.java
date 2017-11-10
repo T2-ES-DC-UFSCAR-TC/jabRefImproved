@@ -1,4 +1,10 @@
 class Printer
 {
-public Printer(){}
+public Printer(){
+}
+
+void status (){
+}
+
+
 }
