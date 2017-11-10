@@ -3,8 +3,7 @@ class Printer
 public Printer(){
 }
 
-void status (){
-}
+public boolean status(){return true;}
 
 
 }
